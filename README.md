@@ -26,10 +26,10 @@ Run:
 java -cp "bin;lib/*" application.GCFX
 
 Technologies Used:
-1)Java-programming language
-2)JavaFX- GUI Frameworks
-3)SQLite- database 
-4)JDBC- database connectivity
+Java - Programming language
+JavaFX - GUI framework
+SQLite - Database
+JDBC - Database connectivity
 
 Features:
 1)Calculate student grades with weight percentages
