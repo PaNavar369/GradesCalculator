@@ -25,7 +25,8 @@ Run:
 
 java -cp "bin;lib/*" application.GCFX
 
-Technologies Used:
+###Technologies Used:
+
 Java - Programming language
 JavaFX - GUI framework
 SQLite - Database
