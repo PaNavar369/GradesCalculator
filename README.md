@@ -25,6 +25,25 @@ Run:
 
 java -cp "bin;lib/*" application.GCFX
 
+Technologies Used:
+Java-programming language
+JavaFX- GUI Frameworks
+SQLite- database 
+JDBC- database connectivity
+
+Features:
+Calculate student grades with weight percentages
+Store student data in SQLite database
+Upload and manage student photos
+Export results to text files
+Input validation for student numbers
+
+
+Author :
+Name : Palla Naveen Kumar Varma
+GitHub: https://github.com/PaNavar369/GradesCalculator
+linkedin: www.linkedin.com/in/pnaveen23
+
 
 
 
